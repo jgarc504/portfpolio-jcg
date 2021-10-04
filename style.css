@@ -10,9 +10,10 @@ body {
 
 .pageContainer {
   width: 940px;
-  margin: 20px auto 0 auto;
+  margin: 20px;
   padding: 20px;
-  background-color: #fff;
+  background-color: #D3D3D3;
+    
 }
 
 h1 {
