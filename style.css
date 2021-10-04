@@ -17,15 +17,18 @@ body {
 }
 
 h1 {
-  
+  font-family: Roboto;
+  font-size: 60px;
 }
 
 h2 {
-  
+  font-family: Roboto;
+  font-size: 40px;
 }
 
 h4 {
-  
+  font-family: Roboto;
+  font-size: 20px;
   
 }
 
