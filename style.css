@@ -7,3 +7,28 @@ body {
   float: middle;
   
 }
+
+.pageContainer {
+  width: 940px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+h1 {
+  
+}
+
+h2 {
+  
+}
+
+h4 {
+  
+  
+}
+
+img {
+ width: 100% 
+}
+
