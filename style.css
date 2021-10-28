@@ -7,17 +7,22 @@ body {
   float: middle;
   
 }
+button:hover {
+  color: pink
+}
 
 .pageContainer {
   width: 940px;
   margin: 20px;
   padding: 20px;
+  height: 150px;
   background-color: #D3D3D3;
 }
  
 .imageContainer {
   float: left;
   width: 620px;
+  height: 150px;
 }
  
 .textContainer {
@@ -25,22 +30,26 @@ body {
   width: 300px;
   margin-left: 20px;
   margin-top: 20px;
+  height: 150px;
 }
     
 
 h1 {
   font-family: Copperplate;
   font-size: 60px;
+  height: 150px;
 }
 
 h2 {
   font-family: Copperplate;
   font-size: 40px;
+  height: 75px;
 }
 
-h4 {
+h3 {
   font-family: Georgia;
   font-size: 20px;
+  height: 50px;
   
 }
 
