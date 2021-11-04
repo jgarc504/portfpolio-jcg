@@ -7,8 +7,19 @@ body {
   float: middle;
   
 }
-button:hover {
+
+a:link{
+  color: blue
+}
+
+a:visited{
+color: purple
+}
+a:hover {
   color: pink
+}
+a:active {
+color: green
 }
 
 .pageContainer {
